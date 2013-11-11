@@ -1,0 +1,32 @@
+Contents of /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-prefix.pch
+-x
+objective-c
+-arch
+i386
+-std=gnu99
+-fmodules
+-fmodules-cache-path=/Users/lyokato/Library/Developer/Xcode/DerivedData/ModuleCache
+-fpascal-strings
+-O0
+-DDEBUG=1
+-DCOCOAPODS=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-mios-simulator-version-min=6.0
+-iquote
+-iquote
+-I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/include
+-I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders
+-I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders/FBGlowLabel
+-I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers
+-I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers/FBGlowLabel
+-F/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator
+i386-apple-darwin12.5.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)"
+SDK_PRODUCT_BUILD_VERSION=11B508
+11B508

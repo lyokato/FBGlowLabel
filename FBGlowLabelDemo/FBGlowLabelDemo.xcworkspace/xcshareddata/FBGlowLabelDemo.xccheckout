@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>18257EBC-8570-4404-AA2C-709DFE44AF90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FBGlowLabelDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>903FC0B5-EB4B-4199-B439-A39AE0159690</key>
+		<string>https://github.com/lyokato/FBGlowLabel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FBGlowLabelDemo/FBGlowLabelDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>903FC0B5-EB4B-4199-B439-A39AE0159690</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lyokato/FBGlowLabel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>903FC0B5-EB4B-4199-B439-A39AE0159690</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>903FC0B5-EB4B-4199-B439-A39AE0159690</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FBGlowLabel</string>
+		</dict>
+	</array>
+</dict>
+</plist>

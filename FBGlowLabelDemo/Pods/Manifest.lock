@@ -1,0 +1,14 @@
+PODS:
+  - FBGlowLabel (0.0.1)
+
+DEPENDENCIES:
+  - FBGlowLabel (from `..`)
+
+EXTERNAL SOURCES:
+  FBGlowLabel:
+    :path: ..
+
+SPEC CHECKSUMS:
+  FBGlowLabel: b37279b1363c200feedcf6bd6f9c61c55a29b91a
+
+COCOAPODS: 0.27.1

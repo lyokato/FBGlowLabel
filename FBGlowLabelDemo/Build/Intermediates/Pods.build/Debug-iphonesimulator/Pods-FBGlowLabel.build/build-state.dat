@@ -1,0 +1,170 @@
+TPods-FBGlowLabel
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel-dummy.o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/FBGlowLabel.o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/libPods-FBGlowLabel.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005268C3990000000000A92BC0
+t1382597529
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005268C39A0000000000640E80
+t1382597530
+s6557312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005268C3EE0000000000000176
+t1382597614
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523A5F7F00000000000003B5
+t1379557247
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005268C3A300000000000001A0
+t1382597539
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523A5F980000000000000AC9
+t1379557272
+s2761
+
+N/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m
+c00000000528084D50000000000001530
+t1384154325
+s5424
+
+N/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/FBGlowLabel.o
+t1384156963
+s59936
+
+N/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel-dummy.o
+t1384156963
+s3496
+
+N/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel.LinkFileList
+c0000000052808F22000000000000016B
+t1384156962
+s363
+
+N/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch.pch
+t1384156963
+s115104
+
+N/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch.pch
+t1384156963
+s114708
+
+N/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/libPods-FBGlowLabel.a
+t2
+s0
+
+N/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-dummy.m
+c0000000052808ECC0000000000000088
+t1384156876
+s136
+
+N/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-prefix.pch
+c0000000052808ECC000000000000004D
+t1384156876
+s77
+
+CBuild AST from /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m
+r0
+
+CBuild AST from /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0c5ae4a2c630b841^0265eba2c630b841^---0#1#1#--18"Check dependencies36"AE35A4F0-B649-40B1-8CB6-1AAC464B318F-
+
+CCompileC /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/FBGlowLabel.o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405849763.012397
+e405849763.104105
+r1
+xCompileC
+x/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/FBGlowLabel.o
+x/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m
+d/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m336"CompileC /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/FBGlowLabel.o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfe4603a3c630b841^e3a61aa3c630b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m0000000000000000^4516"CompileC /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/FBGlowLabel.o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/lyokato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-generated-files.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-own-target-headers.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-all-target-headers.hmap -iquote /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-project-headers.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/include -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders/FBGlowLabel -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers/FBGlowLabel -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/DerivedSources/i386 -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/DerivedSources -F/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch -MMD -MT dependencies -MF /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/FBGlowLabel.d --serialize-diagnostics /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/FBGlowLabel.dia -c /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabel/Classes/FBGlowLabel.m -o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/FBGlowLabel.o36"A0A1EB1C-8048-43E3-8497-2729D8AC64B1-
+b151AB126-58D8-45D5-9D86-E7FB24CE8C17
+
+CCompileC /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel-dummy.o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405849763.012394
+e405849763.052355
+r1
+xCompileC
+x/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel-dummy.o
+x/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-dummy.m288"CompileC /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel-dummy.o Pods-FBGlowLabel-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere44c03a3c630b841^45670da3c630b841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-dummy.m0000000000000000^4502"CompileC /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel-dummy.o Pods-FBGlowLabel-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/lyokato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-generated-files.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-own-target-headers.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-all-target-headers.hmap -iquote /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-project-headers.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/include -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders/FBGlowLabel -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers/FBGlowLabel -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/DerivedSources/i386 -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/DerivedSources -F/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator -include /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch -MMD -MT dependencies -MF /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel-dummy.d --serialize-diagnostics /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel-dummy.dia -c /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-dummy.m -o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel-dummy.o36"5BB022E5-B292-4DB0-8C1F-F2FE0A50031F-
+b151AB126-58D8-45D5-9D86-E7FB24CE8C17
+
+CLibtool /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/libPods-FBGlowLabel.a normal i386
+s405849763.112439
+e405849763.119463
+r1
+xLibtool
+x/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/libPods-FBGlowLabel.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Libtool /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/libPods-FBGlowLabel.a normal i386144"Libtool /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/libPods-FBGlowLabel.a normal i38638db1ca3c630b841^74951ea3c630b841^---0#0#1#--1190"Libtool /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/libPods-FBGlowLabel.a normal i386    cd /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator -filelist /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Objects-normal/i386/Pods-FBGlowLabel.LinkFileList -framework Foundation -framework QuartzCore -o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/libPods-FBGlowLabel.a36"80397C02-4DEE-4347-963F-C3A02D67D6B3-
+b151AB126-58D8-45D5-9D86-E7FB24CE8C17
+
+CProcessPCH /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405849762.925656
+e405849763.004158
+r1
+xProcessPCH
+x/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch.pch
+xPods-FBGlowLabel-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-prefix.pch
+d/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precompile Pods-FBGlowLabel-prefix.pch296"ProcessPCH /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b2feda2c630b841^7e1801a3c630b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-prefix.pch0000000000000000^4341"ProcessPCH /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/lyokato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-generated-files.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-own-target-headers.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-all-target-headers.hmap -iquote /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-project-headers.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/include -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders/FBGlowLabel -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers/FBGlowLabel -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/DerivedSources/i386 -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/DerivedSources -F/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator -fobjc-arc --serialize-diagnostics /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch.dia -MMD -MT dependencies -MF /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch.d -c /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-prefix.pch -o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bezoaflfewgthscvshtpkeudozwn/Pods-FBGlowLabel-prefix.pch.pch36"6252B946-815A-4B21-8BE2-F3EE71660255-
+b151AB126-58D8-45D5-9D86-E7FB24CE8C17
+
+CProcessPCH /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405849762.926770
+e405849763.004158
+r1
+xProcessPCH
+x/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch.pch
+xPods-FBGlowLabel-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-prefix.pch
+d/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precompile Pods-FBGlowLabel-prefix.pch296"ProcessPCH /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0762eda2c630b841^491101a3c630b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-prefix.pch0000000000000000^4330"ProcessPCH /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/lyokato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-generated-files.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-own-target-headers.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-all-target-headers.hmap -iquote /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/Pods-FBGlowLabel-project-headers.hmap -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator/include -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/BuildHeaders/FBGlowLabel -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Headers/FBGlowLabel -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/DerivedSources/i386 -I/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-FBGlowLabel.build/DerivedSources -F/Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch.dia -MMD -MT dependencies -MF /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch.d -c /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Pods/Pods-FBGlowLabel-prefix.pch -o /Users/lyokato/Dropbox/src/objectivec/FBGlowLabel/FBGlowLabelDemo/Build/Intermediates/PrecompiledHeaders/Pods-FBGlowLabel-prefix-dznwooeywvhghegvfyzhtyhdpkmv/Pods-FBGlowLabel-prefix.pch.pch36"EF8FB01C-FB1F-414B-90D6-A80D6F797BD8-
+b151AB126-58D8-45D5-9D86-E7FB24CE8C17
+
+CProcessPCH /Users/lyokato/Library/Developer/Xcode/DerivedData/FBGlowLabelDemo-cbziepbosrymqvavynpsqdztoncu/Index/PrecompiledHeaders/Pods-FBGlowLabel-prefix-bzrzqzymiuiyqjctduzpalzbtklv_ast/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/lyokato/Library/Developer/Xcode/DerivedData/FBGlowLabelDemo-cbziepbosrymqvavynpsqdztoncu/Index/PrecompiledHeaders/Pods-FBGlowLabel-prefix-gdhluteplzlczwgcpchldrbtkxuh_ast/Pods-FBGlowLabel-prefix.pch.pch Pods-FBGlowLabel-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
