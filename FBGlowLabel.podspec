@@ -1,14 +1,10 @@
 Pod::Spec.new do |s|
   s.name         = "FBGlowLabel"
   s.version      = "0.0.1"
-  s.summary      = "A short description of FBGlowLabel."
+  s.summary      = "adding UILabel glowing effect"
   s.description  = <<-DESC
-                   A longer description of FBGlowLabel in Markdown format.
-
-                   * Think: Why did you write this? What is the focus? What does it do?
-                   * CocoaPods will be using this to generate tags, and improve search results.
-                   * Try to keep it short, snappy and to the point.
-                   * Finally, don't worry about the indent, CocoaPods strips it!
+    This library support glowing effect on to UILabel class.
+    Not only outer glow (shadow), but also inner glow.
                    DESC
   s.homepage     = "https://github.com/lyokato/FBGlowLabel"
   s.license      = 'MIT'
