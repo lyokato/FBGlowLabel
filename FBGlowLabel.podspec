@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "adding UILabel glowing effect"
   s.description  = <<-DESC
-    This library support glowing effect on to UILabel class.
+    This library supports glow effect on to UILabel class.
     Not only outer glow (shadow), but also inner glow.
                    DESC
   s.homepage     = "https://github.com/lyokato/FBGlowLabel"

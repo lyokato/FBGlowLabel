@@ -35,13 +35,12 @@
     v.text = kInitialText;
     v.textAlignment = NSTextAlignmentCenter;
     v.clipsToBounds = YES;
-    //v.lineWidth = 1;
     v.backgroundColor = [UIColor clearColor];
     v.font = [UIFont fontWithName:@"Helvetica-Bold" size:40];
     v.alpha = 1.0;
     v.glowSize = 20;
     v.innerGlowSize = 4;
-    v.textColor = UIColorFromRGB(0xffffff);
+    v.textColor = UIColor.whiteColor;
     v.glowColor = UIColorFromRGB(0x00ffff);
     v.innerGlowColor = UIColorFromRGB(0x00ffff);
     self.label = v;
