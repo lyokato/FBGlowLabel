@@ -13,6 +13,8 @@ These are not so bad, but somehow cheap. Then, see following image which is with
 
 ![InnerGlow](http://static.squarespace.com/static/51c2c539e4b032aad7050f2e/t/52821ce0e4b03c032e6c1113/1384258840734/glow.png?format=750w "InnerGlowExample")
 
+Perfect!
+
 ## APPLICATION EXAMPLE
 
 In my app, "Flashback", glowing effect is attached on most of texts and shapes. This time I pick up one for label.
@@ -21,7 +23,7 @@ In my app, "Flashback", glowing effect is attached on most of texts and shapes. 
 
 [Flashback Calendar](http://flashback-calendar.com/)
 
-## Setting Up
+## SETTING UP
 
 If your use CocoaPods, add following line into your Podfile
 
@@ -66,7 +68,7 @@ Most of the usage is same as UILabel. And you can set just 4 more properties. to
 }
 ```
 
-## For More Detail
+## FOR MORE DETAIL
 
 This repository includes demo project, so you can dig into it for more detail. 
 
