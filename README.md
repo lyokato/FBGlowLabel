@@ -21,11 +21,11 @@ In my app, "Flashback", glowing effect is attached on most of texts and shapes. 
 
 ![Flashback](http://static.squarespace.com/static/51c2c539e4b032aad7050f2e/t/5280c72be4b05ebb58c32579/1384171308891/Screens5.png?format=1500w "Flashback")
 
-[Flashback Calendar](http://flashback-calendar.com/)
+For more detail, access to [Flashback Calendar](http://flashback-calendar.com/)
 
 ## SETTING UP
 
-If your use CocoaPods, add following line into your Podfile
+If you use CocoaPods, add following line into your Podfile
 
 ```
 pod 'FBGlowLabel', :git => 'https://github.com/lyokato/FBGlowLabel.git'
