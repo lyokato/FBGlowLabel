@@ -68,6 +68,16 @@ Most of the usage is same as UILabel. And you can set just 4 more properties. to
 }
 ```
 
+## SEE ALSO
+
+If you want more digital styled text, see 
+[FBDigitalFont](http://github.com/lyokato/fbdigitalfont).
+
+FBDigitalFont supports some kinds of digital styled fonts.
+
+![LCDFont](http://static.squarespace.com/static/51c2c539e4b032aad7050f2e/t/5294a0aae4b0f601b40f61a0/1385472171287/FBFontLCD.png?format=1500w "LCDFont")
+
+
 ## FOR MORE DETAIL
 
 This repository includes demo project, so you can dig into it for more detail. 
