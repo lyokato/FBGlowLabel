@@ -15,14 +15,6 @@ These are not so bad, but somehow cheap. Then, see following image which is with
 
 Perfect!
 
-## APPLICATION EXAMPLE
-
-In my app, "Flashback", glowing effect is attached on most of texts and shapes. This time I pick up one for label.
-
-![Flashback](http://static.squarespace.com/static/51c2c539e4b032aad7050f2e/t/5280c72be4b05ebb58c32579/1384171308891/Screens5.png?format=1500w "Flashback")
-
-For more detail, access to [Flashback Calendar](http://flashback-calendar.com/)
-
 ## SETTING UP
 
 If you use CocoaPods, add following line into your Podfile
